@@ -44,7 +44,7 @@ Altissima conoscienza di Machine Leanring & Deep Leanring 😲
 
 ## Sviluppo :light_rail:
 
-<img align="right" src="./imgs/trans.gif" width="30%" height="30%">
+<img align="right" src="./imgs/trans.gif" width="60%" height="50%">
 
 - Interiorizzato funzionamento dei Transformers
 - Analizzato nei minimi dettagli il dataset fornito (non ha più segreti per noi 🚀)
